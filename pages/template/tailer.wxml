@@ -1,0 +1,7 @@
+<template name="tailer1">
+这是底部内容1
+</template>
+
+<template name="tailer2">
+这是底部内容2
+</template>

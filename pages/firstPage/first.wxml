@@ -1,0 +1,9 @@
+<include src="../template/header" />
+
+<button type='primary' bindtap='btnClick'>{{btnText}}</button>
+
+<view wx:if="{{show}}">{{test}} 1 </view>
+<view wx:else>{{test}} 2 </view>
+
+<import src="../template/tailer" />
+<template is="tailer1" />
